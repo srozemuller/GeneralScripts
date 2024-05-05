@@ -1,3 +1,4 @@
+# For more information about this script check: https://rozemuller.com/graph-api-in-automation-at-scale/
 function Create-UrlListBatchOutput {
     param (
         [System.Collections.Generic.List[string]] $urlList
